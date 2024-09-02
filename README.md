@@ -23,4 +23,4 @@ The notebook of model project is divided on parts that are :
 
 <br>_Enjoy predicting tweets emotions :exclamation: :v:_
 
-<br> ***By : Zakaria Mejdoul***
+<br> *** Manan Chichra***
