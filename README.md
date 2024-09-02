@@ -23,4 +23,4 @@ The notebook of model project is divided on parts that are :
 
 
 
-<br> ### Manan Chichra ###
+### Manan Chichra
