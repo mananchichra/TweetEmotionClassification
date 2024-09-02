@@ -21,6 +21,6 @@ The notebook of model project is divided on parts that are :
 6. Creating and Training RNN Model
 7. Model Evaluation
 
-<br>_Enjoy predicting tweets emotions :exclamation: :v:_
 
-<br> *** Manan Chichra ***
+
+<br> ### Manan Chichra ###
